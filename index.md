@@ -1,3 +1,5 @@
+---
+---
 # Kebijakan Privasi KRAMA
 
 **Berlaku sejak:** 24 Agustus 2026
