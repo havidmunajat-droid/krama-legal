@@ -138,15 +138,10 @@ yang bersangkutan.
 |Jenis data|Lama disimpan|Dasar|
 |-|-|-|
 |Riwayat pesanan \& transaksi|**10 tahun** sejak akhir tahun buku transaksi tersebut|Pasal 28 ayat (11) UU KUP jo. Pasal 11 UU No. 8/1997 tentang Dokumen Perusahaan — kewajiban hukum, bukan pilihan|
-|Data akun|Selama akun aktif, dan 12 bulan setelah akun dihapus|Keputusan bisnis Kapten|
-|Foto Cargo|6-12 bulan setelah pesanan selesai|Keputusan bisnis Kapten, cukup untuk menangani klaim yang telat dilaporkan|
+|Data akun|Selama akun aktif, dan 12 bulan setelah akun dihapus|Kebutuhan operasional layanan|
+|Foto Cargo|6-12 bulan setelah pesanan selesai|Bukti pendukung bila ada klaim kerusakan|
 |Kode reset password|15 menit, sekali pakai|Sudah berlaku otomatis di sistem|
 
-> Catatan teknis: kode reset password memang sudah otomatis mati dalam 15 menit
-> atau setelah 5 kali salah — ini sudah berjalan di sistem. Baris "Data akun"
-> dan "Foto Cargo" masih perlu Kapten pastikan angkanya, dan \*\*belum otomatis
-> berjalan di sistem\*\* (perlu diimplementasikan sebagai proses penghapusan
-> terjadwal) — jangan menuliskan janji yang belum bisa ditepati secara teknis.
 
 ## 7\. Keamanan
 
